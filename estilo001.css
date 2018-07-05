@@ -1,0 +1,94 @@
+ fieldset {
+        width: 46%;
+        margin: 0px auto;
+        background-color: white;
+        padding: 25px;
+        position: relative;
+        top: 20px;
+    }
+    
+    .form-grupo {
+        line-height: 17px;
+        padding: 1px 10px 10px 10px;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    
+    .tform-grupo {
+        line-height: 17px;
+        padding: 1px 10px 10px 10px;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    
+    .titulo {
+        text-align: center;
+        font-family: sans-serif;
+    }
+    
+    body {
+        background-image: url(fundo01.jpg);
+    }
+    
+    .field {
+        position: relative;
+        top: 100px;
+    }
+    
+    .cabecalho {
+        font-weight: bold;
+        text-align: center;
+        font-size: 20px;
+        background-color: #7171ff;
+        position: relative;
+        top: 300px;
+    }
+    
+    input {
+        border: 2px solid rgb(184, 179, 179);
+        border-radius: 5px;
+    }
+    
+    .btn {
+        font-family: arial;
+        font-size: 13px;
+        text-transform: uppercase;
+        padding: 3px;
+        cursor: pointer;
+        position: relative;
+        top: 10px;
+        left: 10px;
+        border-radius: 5px;
+    }
+    
+    .botao {
+        font-family: arial;
+        font-size: 13px;
+        text-transform: uppercase;
+        padding: 3px;
+        cursor: pointer;
+        position: relative;
+        top: 12px;
+        left: 10px;
+        border-radius: 5px;
+    }
+    
+    .ctitle {
+        background-color: blue;
+        color: white;
+        text-align: center;
+        font-family: sans-serif;
+    }
+    
+    .cformm {
+        background-color: blue;
+        color: white;
+        text-align: center;
+        font-family: sans-serif;
+        position: relative;
+        top: 100px;
+    }
