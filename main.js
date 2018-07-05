@@ -6,3 +6,16 @@ let validation = function() {
         let formConfirmaSenha = document.getElementById('formConfirmaSenha');
 
         let formulario = [formName, formEmail, formConfirmaEmail, formSenha, formConfirmaSenha];
+        
+if (formulario[i]).value === '' || '@,.') {
+
+    alert("Preencha os Campos");
+
+}
+
+else {
+
+
+
+}
+}
